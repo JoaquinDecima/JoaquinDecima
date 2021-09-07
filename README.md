@@ -45,14 +45,14 @@
 
 <h3 align="left">Support:</h3>
 <center>
-  <p><a href="https://www.buymeacoffee.com/PatoJAD"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="PatoJAD" /></a></p>
+  <p align="center"><a href="https://www.buymeacoffee.com/PatoJAD"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="PatoJAD" /></a></p>
 
   <br />&nbsp;<br />
 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaquindecima&show_icons=true&locale=es&layout=compact" alt="joaquindecima" /></p>
+  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaquindecima&show_icons=true&locale=es&layout=compact" alt="joaquindecima" /></p>
 
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=joaquindecima&show_icons=true&locale=es" alt="joaquindecima" /></p>
+  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=joaquindecima&show_icons=true&locale=es" alt="joaquindecima" /></p>
 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joaquindecima&" alt="joaquindecima" /></p>
+  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joaquindecima&" alt="joaquindecima" /></p>
 
 </center>
