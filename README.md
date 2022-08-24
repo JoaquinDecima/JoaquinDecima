@@ -16,7 +16,7 @@
 
 - 👯 Estoy colaborando en [LLG](https://legionlinuxgamers.ga/)
 
-- 👨‍💻 Todos mis proyectos están disponibles en [https://joaquindecima.ml/](https://joaquindecima.ml/ml)
+- 👨‍💻 Todos mis proyectos están disponibles en [https://joaquindecima.ml/](https://joaquindecima.ml/)
 
 - 📝 Regularmente escribo artículos en [https://patojad.com.ar/](https://patojad.com.ar/)
 
