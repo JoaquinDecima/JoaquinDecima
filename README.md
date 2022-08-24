@@ -10,21 +10,21 @@
 
 </center>
   
-- 🔭 Actualmente estoy trabajando en [LynxOS](https://gitlab.com/LynxOS)
+- 🔭 Actualmente estoy trabajando en [LynxOS](https://os.lynx.net.ar)
 
-- 🌱 Actualmente estoy aprendiendo **Ruby**
+- 🌱 Actualmente estoy aprendiendo **NWJS**
 
 - 👯 Estoy colaborando en [LLG](https://legionlinuxgamers.ga/)
 
-- 👨‍💻 Todos mis proyectos están disponibles en [https://joaquindecima.gitlab.io/projects](https://joaquindecima.gitlab.io/projects)
+- 👨‍💻 Todos mis proyectos están disponibles en [https://joaquindecima.ml/](https://joaquindecima.ml/ml)
 
 - 📝 Regularmente escribo artículos en [https://patojad.com.ar/](https://patojad.com.ar/)
 
 - 💬 Preguntame sobre **Linux**
 
-- 📫 Como llegar a mi **joaquin.decima@gmail.com**
+- 📫 Como llegar a mi **jdecima@lynx.net.ar**
 
-- 📄 Conoce mis experiencias [https://joaquindecima.gitlab.io/portfolio](https://joaquindecima.gitlab.io/portfolio)
+- 📄 Conoce mis experiencias [https://joaquindecima.ml](https://joaquindecima.ml)
 
 ## Blogs posts
 <!-- BLOG-POST-LIST:START -->
