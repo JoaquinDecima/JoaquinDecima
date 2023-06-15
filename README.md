@@ -10,7 +10,7 @@
 
 </center>
   
-- 🔭 Actualmente estoy trabajando en [LynxOS](https://os.lynx.net.ar)
+- 🔭 Actualmente estoy trabajando en [VasakOS](https://os.vasak.net.ar)
 
 - 🌱 Actualmente estoy aprendiendo **NWJS**
 
@@ -22,7 +22,7 @@
 
 - 💬 Preguntame sobre **Linux**
 
-- 📫 Como llegar a mi **jdecima@lynx.net.ar**
+- 📫 Como llegar a mi **jdecima@vasak.net.ar**
 
 - 📄 Conoce mis experiencias [https://joaquindecima.ml](https://joaquindecima.ml)
 
